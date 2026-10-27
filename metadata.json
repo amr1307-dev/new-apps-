@@ -1,0 +1,6 @@
+{
+  "name": "مساعد البائع الذكي",
+  "description": "المساعد المبيعي الذكي: تصوير المنتجات، مقارنة الأسعار مع الماركات العالمية، إقناع السائح بالسعر والصفقة الرابحة، وتفريغ وترجمة اعتراضات العميل الصوتية فورياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
